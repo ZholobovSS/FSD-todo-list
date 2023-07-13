@@ -1,0 +1,15 @@
+.logoWr {
+	color: grey;
+
+	&.size_L {
+		font-size: 32px;
+	}
+
+	&.size_M {
+		font-size:24px;
+	}
+
+	&.size_S {
+		font-size: 16px;
+	}
+}

@@ -1,0 +1,13 @@
+.wr {
+	display: flex;
+	justify-content: space-between;
+
+	.info {
+		display: flex;
+		align-items: center;
+	}
+
+	.done {
+		text-decoration: line-through;
+	}
+}

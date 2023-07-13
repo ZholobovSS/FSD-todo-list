@@ -1,0 +1,13 @@
+.wr {
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	place-items: center;
+	border: 1px solid #ccc;
+	border-radius: 1rem;
+	background-color: white;
+
+	svg {
+		color: var(--bs-danger);
+	}
+}
